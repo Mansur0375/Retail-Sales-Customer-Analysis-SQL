@@ -20,7 +20,6 @@
 - `Retail_Sales_Customer_Analysis.sql` — 80 numbered SQL queries
 - `Project_Documentation.docx` — objectives, schema, results, skills
 - `Business_Analysis_Results.xlsx` — KPI and analysis sheets
-- `Screenshot_Capture_Guide.docx` — screenshot checklist
 - `Retail_Sales_DB.sqlite` — copy of uploaded database backup
 
 ## Data Quality
