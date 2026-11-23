@@ -67,7 +67,8 @@ The dashboard includes:
 
 ### Power BI Dashboard Preview
 
-<img width="1275" height="1650" alt="Project 2 PBI" src="https://github.com/user-attachments/assets/ab2ed980-29c0-4556-b941-e617adcef5de" />
+<img width="1650" height="1275" alt="Project 2 PBI" src="https://github.com/user-attachments/assets/74a7f993-1d27-411e-990b-6393ee0d8c6b" />
+
 
 
 ## Business Questions
