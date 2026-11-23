@@ -67,7 +67,8 @@ The dashboard includes:
 
 ### Power BI Dashboard Preview
 
-![Retail Sales Power BI Dashboard](PowerBI_Retail_Sales_Dashboard.png)
+<img width="1275" height="1650" alt="Project 2 PBI" src="https://github.com/user-attachments/assets/ab2ed980-29c0-4556-b941-e617adcef5de" />
+
 
 ## Business Questions
 
